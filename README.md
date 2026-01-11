@@ -58,12 +58,6 @@ __6. Print & Export__
 - Print directly from the editor with proper page formatting.
 - Maintains layout, margins, and line spacing for professional output.
 
-__7. Customizable Interface__
-
-- Light and dark mode support for user preference.
-- Clean, distraction-free layout optimized for focused writing.
-- Toolbar reflects current selection formatting dynamically.
-
 <a name="faq"></a>
 ## __Frequently Asked Questions__
 
@@ -77,42 +71,37 @@ OpenWrite currently supports __Windows-based systems__ only.
 
 ---
 
-### __3. Do I need administrator privileges to run OpenWrite?__
-__No.__ OpenWrite works fully under normal user accounts. Administrator privileges are only needed for system-level printing if required.
-
----
-
-### __4. Can OpenWrite track versions of my essay drafts?__
+### __3. Can OpenWrite track versions of my essay drafts?__
 __Yes.__ OpenWrite includes built-in __version control__, letting you save, restore, and compare multiple drafts.
 
 ---
 
-### __5. Can I collaborate with comments in OpenWrite?__
+### __4. Can I collaborate with comments in OpenWrite?__
 Yes. __Inline comments__ allow multiple editors to provide feedback while highlighting relevant text.
 
 ---
 
-### __6. Is my essay data stored in the cloud?__
+### __5. Is my essay data stored in the cloud?__
 No. All documents, comments, and versions are stored __locally on your computer__ by default. No cloud storage is used.
 
 ---
 
-### __7. How do I create a new document?__
+### __6. How do I create a new document?__
 Use the `New` menu option. OpenWrite ensures existing unsaved changes are prompted before starting a new document.
 
 ---
 
-### __8. Does OpenWrite support printing essays?__
+### __7. Does OpenWrite support printing essays?__
 __Yes.__ Print directly from the editor, preserving page layout, margins, and line spacing.
 
 ---
 
-### __9. How are updates handled?__
+### __8. How are updates handled?__
 OpenWrite does not require online updates; new versions are provided on GitHub releases for manual download.
 
 ---
 
-### __10. Where can I report bugs or request features?__
+### __9. Where can I report bugs or request features?__
 Please submit issues or feature requests via __GitHub Issues__ in the project repository.
 
 ## __Installation__
