@@ -1,9 +1,7 @@
 <div align="center">
 <a href="https://github.com/FreeCoderExperience/OpenWrite">
   <picture>
-    <source srcset="https://raw.githubusercontent.com/FreeCoderExperience/OpenWrite/main/images/logotransparent-dark-300.png" media="(prefers-color-scheme: dark)">
-    <source srcset="https://raw.githubusercontent.com/FreeCoderExperience/OpenWrite/main/images/logotransparent-light-300.png" media="(prefers-color-scheme: light)">
-    <img src="https://raw.githubusercontent.com/FreeCoderExperience/OpenWrite/main/images/logotransparent-dark-300.png" alt="OpenWrite" width="300">
+    <img src="https://raw.githubusercontent.com/FreeCoderExperience/OpenWrite/main/images/logorounded.png" alt="OpenWrite" width="300">
   </picture>
 </a>
 
